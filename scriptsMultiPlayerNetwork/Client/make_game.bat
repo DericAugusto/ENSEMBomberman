@@ -1,0 +1,1 @@
+gcc main.c utilitaires.c definitions.h -o game -lpthread -lws2_32

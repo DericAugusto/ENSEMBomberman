@@ -1,0 +1,2 @@
+cd scriptsMenu
+start.exe

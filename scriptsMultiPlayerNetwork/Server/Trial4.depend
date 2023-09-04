@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1672690422 source:c:\users\lenovo\onedrive\bureau\serpent\trial4\main.c
+	"jeu.h"
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<winsock2.h>
+
+1672651118 c:\users\lenovo\onedrive\bureau\serpent\trial4\jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1672651104 source:c:\users\lenovo\onedrive\bureau\serpent\trial4\utilitaires.c
+	"jeu.h"
+	<pthread.h>
+
+1672773102 source:c:\users\lenovo\onedrive\bureau\modereseau\partie_serveur_codeblocks\main.c
+	"jeu.h"
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<winsock2.h>
+
+1672651118 c:\users\lenovo\onedrive\bureau\modereseau\partie_serveur_codeblocks\jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	<stdbool.h>
+	<windows.h>
+	<conio.h>
+
+1672651104 source:c:\users\lenovo\onedrive\bureau\modereseau\partie_serveur_codeblocks\utilitaires.c
+	"jeu.h"
+	<pthread.h>
+
